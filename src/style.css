@@ -1,1 +1,33 @@
+html {
+  margin: 30px auto;
+  display: flex;
+  text-align: center;
+}
+body {
+  max-width: 900px;
+}
 
+.main-home h2 {
+  margin: 20px 20px;
+  font-size: 40px;
+}
+
+.main-home p {
+  border: 1px solid #d8d6d4;
+  border-radius: 4px;
+  background-color: #f3f1f0;
+  padding: 20px;
+}
+.service-itens {
+  border: 1px solid #685031;
+  background-color: #685031;
+  color: #ffff;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 4px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+#services {
+  margin: 40px 40px;
+}
