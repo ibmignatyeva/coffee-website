@@ -4,7 +4,7 @@ html {
   background-color: #f8ede3;
 }
 body {
-  display: inline-block;
+  display:block;
   max-width: 900px;
   padding: 0px 15px 15px;
 }
